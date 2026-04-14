@@ -1,3 +1,5 @@
+## I did not make this, I am just translating it to French.
+
 # Blur Auto Clicker
 
 <div align="center">
