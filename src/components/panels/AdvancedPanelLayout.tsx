@@ -289,7 +289,7 @@ export default function AdvancedPanelLayout({
 
             <div className="sectioncontainer">
               <div className="adv-card-header">
-                <span className="adv-card-title">Cycle actif</span>
+                <span className="adv-card-title">Cycle d'activité</span>
                 <div className="adv-row" style={{ gap: 6 }}>
                   <div className="adv-minmax">
                     <div className="adv-numbox-sm">
@@ -306,7 +306,7 @@ export default function AdvancedPanelLayout({
               </div>
               <CardDivider />
               {showDesc(
-                  "Fait varier la durée de maintien du bouton de souris entre les pourcentages min et max de chaque intervalle de clic.",
+                  "Fait varier de manière aléatoire la durée de maintien du bouton de souris entre les pourcentages min et max de chaque intervalle de clic.",
                 )}
             </div>
 
@@ -335,7 +335,7 @@ export default function AdvancedPanelLayout({
                 <CardDivider />
 
                 {showDesc(
-                  "Fait varier le rythme des clics autour de la vitesse configurée jusqu’à ce pourcentage.",
+                  "Fait varier de manière aléatoire le rythme des clics autour de la vitesse configurée jusqu’à ce pourcentage.",
                 )}
               </Disableable>
             </div>

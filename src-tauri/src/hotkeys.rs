@@ -277,7 +277,7 @@ pub fn handle_hotkey_released(app: &AppHandle) {
     };
 
     if mode == "Hold" {
-        let _ = stop_clicker_inner(app, Some(String::from("Arrêté via raccourci maintenu")));
+        let _ = stop_clicker_inner(app, Some(String::from("Arrêté via raccourci")));
     }
 }
 
