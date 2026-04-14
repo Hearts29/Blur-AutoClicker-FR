@@ -1,4 +1,5 @@
 ## I did not make this, I am just translating it to French.
+Everything further is written by the original author, and I later refers to him.
 
 # Blur Auto Clicker
 
